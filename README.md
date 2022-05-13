@@ -6,27 +6,27 @@
 
 ## 运行示例
 
-  ![](https://github.com/shaojianqing/BillSystem/res/main.jpg) 
+  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/res/main.png) 
  
                             1.主界面
 
-  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/update.jpg) 
+  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/update.png) 
   
                             2.更新物流单据
   
-  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/print.jpg)
+  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/print.png)
   
                             3.打印单据列表
   
-  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/region.jpg)
+  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/region.png)
   
                             4.物流区域管理
   
-  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/customer.jpg)
+  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/customer.png)
   
                             5.物流客户管理
 
-  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/userinfo.jpg)
+  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/userinfo.png)
   
                             5.用户信息管理
   
