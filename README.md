@@ -1,12 +1,12 @@
 # BillSystem
 
-#### 项目介绍
+## 项目介绍
 单机版物流单据管理系统
 
 
-#### 运行示例
+## 运行示例
 
-  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/main.jpg) 
+  ![](https://github.com/shaojianqing/BillSystem/res/main.jpg) 
  
                             1.主界面
 
@@ -26,11 +26,11 @@
   
                             5.物流客户管理
 
-    ![](https://github.com/shaojianqing/BillSystem/blob/master/res/userinfo.jpg)
+  ![](https://github.com/shaojianqing/BillSystem/blob/master/res/userinfo.jpg)
   
                             5.用户信息管理
   
 
 
-#### 使用说明
+## 使用说明
 
